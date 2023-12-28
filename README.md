@@ -5,3 +5,8 @@ Using node.js
 ```
 npm i franc langs colors
 ```
+franc  
+https://github.com/wooorm/franc  
+  
+langs  
+https://github.com/adlawson/nodejs-langs  
